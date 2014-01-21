@@ -1,1 +1,1 @@
-Sample navigator
+Sample navigator version 1
